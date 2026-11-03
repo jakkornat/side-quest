@@ -10,6 +10,16 @@ Turn everyday tasks into quests. Side Quest is a native macOS app with a parchme
 
 Stone panels, gold trim, and red buttons set the mood. Textures are generated procedurally, and the app runs locally without accounts, network access, or downloaded assets.
 
+Create and organize quests in the journal, then keep your current objective in view with the floating overlay. It stays above your other windows, so your next step is always close at hand while you work.
+
+<p align="center">
+  <img src="docs/images/side-quest-journal.png" alt="Side Quest journal for creating and managing quests" width="720">
+</p>
+
+<p align="center">
+  <img src="docs/images/side-quest-overlay.png" alt="Side Quest floating overlay showing the current quest objective" width="720">
+</p>
+
 ## Requirements
 
 - **Apple Silicon Mac (arm64)** — Intel Macs are not supported.
