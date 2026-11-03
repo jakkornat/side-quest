@@ -18,6 +18,22 @@ Stone panels, gold trim, and red buttons set the mood. Textures are generated pr
 
 ## Build and launch
 
+### Grab & Go
+
+You can download the latest ready-to-use app from [GitHub Releases](https://github.com/jakkornat/side-quest/releases) without building it from source.
+
+**Good to know** that the app is signed locally with an ad hoc signature and is not notarized, so macOS may require you to approve it before opening.
+
+### Install with Homebrew
+
+```sh
+brew install --cask jakkornat/tap/side-quest
+```
+
+This installs the latest release for Apple Silicon. The app is signed locally with an ad hoc signature and is not notarized, so macOS may require you to approve it before opening.
+
+### Build from source
+
 Install Lua if needed:
 
 ```sh
